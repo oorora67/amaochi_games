@@ -18,10 +18,10 @@
     font-size: 20vmin;
     overflow:auto; 
     -webkit-overflow-scrolling:touch;
-    transform:scale(50vmin);
 }
 .container iframe{
     display: block;
+    transform:scale(50vmin);
     border:none;
     display:block;
 }
