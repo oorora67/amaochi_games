@@ -29,7 +29,7 @@
     display: block;
 }
 .text_1{
-    font-size: 0.35em;
+    font-size: 1.0em;
     line-height: 1.5;
 }
 .text_2{
@@ -37,7 +37,6 @@
     line-height: 1.5;
 }
 .url-text2 {
-    font-family: "Poiret One", cursive;
     font-size: 0.5em;
     line-height: 1.2;
     display: block;
