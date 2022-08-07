@@ -2,15 +2,29 @@
   "preload": {
     "files": [
       {
-        "type": "bitmapFont",
-        "key": "font",
-        "textureURL": "./assets/font/font.png",
-        "fontDataURL": "./assets/font/font.fnt"
+        "type": "audio",
+        "key": "BGM",
+        "url": "./assets/sound/bgm_classic_offenbach_tengokutojigoku.mp3"
       },
       {
         "type": "audio",
         "key": "damege1",
         "url": "./assets/sound/damege1.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "damege2",
+        "url": "./assets/sound/damege2.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "result1",
+        "url": "./assets/sound/point1.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "result2",
+        "url": "./assets/sound/point2.mp3"
       },
       {
         "type": "image",
@@ -21,11 +35,6 @@
         "type": "image",
         "key": "background",
         "url": "./assets/images/bg.png"
-      },
-      {
-        "type": "image",
-        "key": "bird",
-        "url": "./assets/images/amaochi.bmp"
       },
       {
         "type": "spritesheet",
