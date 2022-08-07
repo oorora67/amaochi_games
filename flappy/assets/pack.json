@@ -1,0 +1,50 @@
+{
+  "preload": {
+    "files": [
+      {
+        "type": "audio",
+        "key": "BGM",
+        "url": "./assets/sound/bgm_classic_offenbach_tengokutojigoku.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "damege1",
+        "url": "./assets/sound/damege1.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "damege2",
+        "url": "./assets/sound/damege2.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "result1",
+        "url": "./assets/sound/point1.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "result2",
+        "url": "./assets/sound/point2.mp3"
+      },
+      {
+        "type": "image",
+        "key": "bird",
+        "url": "./assets/images/amaochi.bmp"
+      },
+      {
+        "type": "image",
+        "key": "background",
+        "url": "./assets/images/bg.png"
+      },
+      {
+        "type": "spritesheet",
+        "key": "pipe",
+        "url": "./assets/sprites/pipe.png",
+        "frameConfig": {
+          "frameWidth": 20,
+          "frameHeight": 20
+        }
+      }
+    ]
+  }
+}
