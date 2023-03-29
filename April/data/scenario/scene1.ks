@@ -52,9 +52,9 @@
 ;このゲームで登場するキャラクターを宣言
 ;amatuka
 [chara_new  name="あまつか" storage="chara/amatuka/normal.png" jname="あまつか" left="396" top="55" width="500" height="677"  ]
-;[voconfig sebuf=2 name="?" vostorage="amatuka_{number}.ogg" number=1 ]
-;[voconfig sebuf=2 name="あまつか" vostorage="amatuka_{number}.ogg" number=6 ]
-;[vostart]
+[voconfig sebuf=2 name="?" vostorage="amatuka_{number}.ogg" number=1 ]
+[voconfig sebuf=2 name="あまつか" vostorage="amatuka_{number}.ogg" number=6 ]
+[vostart]
 #
 昼休憩も残り少しとなった昼下がり[l][r]
 社畜の私は残業による寝不足により、公園で船を漕いでいた・・・[p]
@@ -115,7 +115,8 @@
 
 #
 そう言って少女は改めてキャンディーを差し出すが、[r]
-自分が差し出したキャンディーを見て何かに気づいたのか慌てて手を戻す[p]
+自分が差し出したキャンディーを見て何かに気づいたのか[r]
+慌てて手を戻す[p]
 
 #あまつか
 あ、ごめんなさい。[l][r]
@@ -150,7 +151,7 @@
 [bg  time="2000" method="fadeInDown"  storage="black.png" ]
 
 #あまつか
-お兄ちゃんとあまつかは、今ここで出会っていない[l][r]
+お兄ちゃんとあまつかは、今日ここで出会っていない[l][r]
 #あまつか
 お兄ちゃんはきっと、すぐにあまつかのことは忘れてしまうけど[p]
 #あまつか
@@ -165,7 +166,7 @@
 [skipstop]
 [autostop]
 ~End~[l][p]
-;[vostop]
+[vostop]
 
 @jump target=title_jamp
 
