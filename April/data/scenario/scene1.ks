@@ -54,7 +54,7 @@
 [chara_new  name="あまつか" storage="chara/amatuka/normal.png" jname="あまつか" left="396" top="55" width="500" height="677"  ]
 [voconfig sebuf=2 name="?" vostorage="amatuka_{number}.ogg" number=1 ]
 [voconfig sebuf=2 name="あまつか" vostorage="amatuka_{number}.ogg" number=6 ]
-[vostart]
+;[vostart]
 #
 昼休憩も残り少しとなった昼下がり[l][r]
 社畜の私は残業による寝不足により、公園で船を漕いでいた・・・[p]
@@ -166,7 +166,7 @@
 [skipstop]
 [autostop]
 ~End~[p]
-[vostop]
+;[vostop]
 
 @jump target=title_jamp
 
