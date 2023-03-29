@@ -8,7 +8,7 @@
 
 
 
-[bg storage="春の公園（日中）.jpg" time="100"]
+[bg storage="park.jpg" time="100"]
 
 
 ; ロールボタン配置
@@ -157,7 +157,7 @@
 
 #
 手が離れたので目を開けようとすると暖かい春風が吹いてきた[p]
-[bg  time="2000" method="fadeInUp"  storage="春の公園（日中）.jpg" ]
+[bg  time="2000" method="fadeInUp"  storage="park.jpg" ]
 春風がやみ目を開けると少女はすでにいなかった。[p]
 周りを見渡しても、少女はいなかったが、[l][r]
 手にはストロベリー味のキャンデーが握られていた・・・[p]
